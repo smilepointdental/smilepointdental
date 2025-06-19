@@ -1,0 +1,464 @@
+/* Laptop big Device :1500px. */
+@media (min-width: 1700px) and (max-width: 1800px) {
+	.slider-area::after {
+		width: 750px;
+	}
+
+	.slider-text.slider-content-space {
+		margin-left: 95px;
+	}
+
+	.slider-text h2 {
+		font-size: 110px;
+	}
+
+}
+
+@media (min-width: 1600px) and (max-width: 1700px) {
+	.slider-area::after {
+		width: 715px;
+	}
+
+	.slider-text h2 {
+		font-size: 80px;
+	}
+
+
+}
+
+@media (min-width: 1500px) and (max-width: 1600px) {
+	.slider-area::after {
+		width: 660px;
+	}
+
+	.slider-text h2 {
+		font-size: 80px;
+	}
+
+
+}
+
+
+/* Latop Device :1200px. */
+@media (min-width: 1400px) and (max-width: 1500px) {
+	.slider-area::after {
+		width: 575px;
+	}
+
+	.header-right {
+		margin-left: 100px;
+	}
+
+
+}
+
+@media (min-width: 1300px) and (max-width: 1400px) {
+	.slider-area::after {
+		width: 490px;
+	}
+
+	.header-right {
+		margin-left: 100px;
+	}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+	.slider-area::after {
+		width: 490px;
+	}
+
+	.header-right {
+		margin-left: 50px;
+	}
+
+	.section-title .section-pre-titles h2 {
+		font-size: 173px;
+	}
+}
+
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+	.header-area {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.header-cta h4 {
+		font-size: 18px;
+	}
+
+	.main-menu ul li {
+		margin: 0 7px;
+	}
+
+	.slider-text.slider-content-space {
+		margin-left: 23px;
+		margin-top: 146px;
+		margin-right: 101px;
+	}
+
+	.header-icon {
+		margin-right: 6px;
+	}
+
+	.slider-img {
+		margin-top: 154px;
+		margin-left: -207px;
+	}
+
+	.slider-img img {
+		width: 100%;
+	}
+
+	.single-bran-img img {
+		width: 100%;
+	}
+
+	.slider-area {
+		padding: 0 30px;
+	}
+
+	.slider-text h2 {
+		font-size: 90px;
+	}
+.brand-area {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+}
+
+/* LG  Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.header-area {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.header-h2d-wrp {
+		display: none;
+	}
+
+	.header-area.pt-30.pb-30 {
+		padding-bottom: 22px;
+	}
+
+	.logo a img {
+		width: 100%;
+	}
+
+	.header-icon {
+		margin-right: 9px;
+		font-size: 14px;
+	}
+
+	.header-cta p {
+		font-size: 14px;
+		margin-bottom: 1px;
+	}
+
+	.btn.header-btn {
+		padding: 15px 28px;
+		font-size: 14px;
+	}
+
+	.header-h2d h4 {
+		color: #fff;
+		font-size: 15px;
+		margin-bottom: 0;
+	}
+
+	.slider-area {
+		padding: 0 30px;
+	}
+
+	.slider-area::after {
+		width: 300px;
+	}
+
+	.slider-text h2 {
+		font-size: 80px;
+	}
+
+	.slider-text.slider-content-space {
+		margin-left: 0px;
+		margin-top: 0;
+		margin-right: 0px;
+	}
+
+	.slider-img {
+		margin-top: 279px;
+		margin-left: -112px;
+	}
+
+	.main-menu ul li {
+		margin: 0 5px;
+	}
+
+	.main-menu ul li a {
+		padding: 14px 4px;
+		font-size: 15px;
+	}
+
+	.slider-img img {
+		width: 100%;
+	}
+
+	.slider-height {
+		min-height: 670px;
+		display: flex;
+		align-items: center;
+		padding: 0 50px;
+	}
+
+	
+
+	.slider-area.slider-height::after {
+		width: 300px;
+	}
+
+
+	.section-title.mb-70 {
+		text-align: center;
+	}
+
+	
+.brand-area {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.row.mt {
+		margin-top: 100px;
+	}
+
+	
+
+.header-area {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.brand-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+	.slider-area {
+		padding: 0 30px;
+	}
+
+	.slider-area::after {
+		width: 0px;
+		height: 0px;
+		position: relative;
+		right: 0;
+		top: 0px;
+
+	}
+
+	.slider-text h2 {
+		font-size: 100px;
+	}
+
+	
+
+	.header-cta h4 {
+		color: #000;
+		font-size: 15px;
+	}
+
+	.slider-height {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.slider-text.slider-content-space {
+		margin-left: 50px;
+		margin-right: 0px;
+	}
+
+	.header-area {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.slider-area.slider-height::after {
+		right: 0px;
+	}
+
+	.news-feed-img a img {
+		width: 100%;
+	}
+
+	
+
+	.section-title .section-pre-titles h2 {
+		font-size: 157px;
+	}
+
+	.slider-area.mb-100 {
+		margin-bottom: 0px;
+	}
+}
+
+
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+	.header-area .pt-10 {
+		padding-top: 5px !important;
+	}
+	.topbar-one {
+		padding-top:0px;
+		padding-bottom:0px;
+	}
+	.topbar-btn {
+    padding: 11.5px 9.5px;
+    display: block;
+		font-size:13px;
+	}
+	.topbar-one__left p {
+		font-size:12px;
+		font-weight:500 !important;
+	}
+	.welcome-section {
+    padding: 0px 0;
+}
+	.footer-wedget-one .btn {
+		padding: 0 12px;
+		font-size: 13px;
+		line-height: 35px;
+		margin-bottom: 20px;
+	}
+	.footer-bottom-sec p {
+		font-size:14px;
+	}
+	.copy-right .text-left {
+		text-align:center;
+	}
+	.slider-text.slider-content-space h2 {
+		font-size:32px;
+	}
+	.slider-text h2 > span:before {
+		background-size:contain;
+	}
+	.slider-text p {
+		font-size:18px;
+	}
+.slider-text.slider-content-space {
+	margin-top: 0px;
+}
+.slider-height {
+	display: flex;
+	align-items: center;
+}
+.brand-area {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.section-title.mt-150.mb-60 {
+	margin-top: 45px;
+}
+	.slider-area.slider-height::after {
+		right: 0px;
+	}
+
+	.section-title h2 {
+		font-size:44px;
+	}
+
+	.slider-area::after {
+		width: 0px;
+		height: 0;
+		right: 0;
+		top: 0px;
+
+	}
+
+	.section-title .section-pre-titles h2 {
+		font-size: 100px;
+	}
+
+	
+
+	.h2d-area-img {
+		margin-bottom: 30px;
+	}
+
+	.footer-social-link {
+		text-align: center;
+		margin-bottom: 23px;
+	}
+
+	.footer-text.text-right {
+		text-align: center !important;
+	}
+
+	
+
+	.slider-btn a {
+		margin-right: 0;
+		margin-bottom: 25px;
+	}
+
+	.slider-text.slider-content-space {
+		margin-left: 20px;
+		margin-right: 0px;
+		text-align: left;
+	}
+
+	.slider-height {
+		margin-left: 0px;
+		margin-right: 0px;
+		min-height: 620px;
+	}
+
+	.header-area {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	.slider-area {
+		padding: 0 0px;
+	}
+
+	.slider-area.mb-100 {
+		margin-bottom: 0px;
+	}
+	.sub-banner-area {
+		padding: 0 0;
+	}
+	.sub-banner-height {
+		min-height: 210px;
+		padding-top: 70px;
+	}
+	.sub-banner-area:after {
+		top: -15px;
+		width: 210px;
+		height: 240px;
+	}
+	.sub-banner-pb {
+    padding-bottom:15px !important;
+	}
+}
+
+/* SM Device :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+	.chief-message-text-box {
+		padding-right:0;
+	}
+}
+@media only screen and (max-device-width: 480px) {
+	.chief-message-text-box {
+		padding-left:0 !important;
+	}
+	.footer-sec h2 {
+		margin-top:25px;
+	}
+}
