@@ -8,7 +8,7 @@ Date: Tue, 14 Jul 2020 13:50:33 +0000
 From: lakshmipathy <lakshmipathy@squarebrothers.net>
 Cc: info@smilepoint.in
 Reply-To: lakshmipathy <lakshmipathy@squarebrothers.net>
-Message-ID: <c40c5f1dabcf61c1717d1ea75df4d0ef@/smilepointdental>
+Message-ID: <c40c5f1dabcf61c1717d1ea75df4d0ef@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -69,7 +69,7 @@ Date: Tue, 14 Jul 2020 14:08:07 +0000
 From: lakshmipathy <lakshmipathy@squarebrothers.net>
 Cc: info@smilepoint.in
 Reply-To: lakshmipathy <lakshmipathy@squarebrothers.net>
-Message-ID: <36f972cf0b4ac881cc8e150471528a2f@/smilepointdental>
+Message-ID: <36f972cf0b4ac881cc8e150471528a2f@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -130,7 +130,7 @@ Date: Tue, 27 Jul 2021 10:57:06 +0000
 From: Shanmugaveni <1989kannan@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Shanmugaveni <1989kannan@gmail.com>
-Message-ID: <0599464e8b0aad10e8bdd439960c41b5@/smilepointdental>
+Message-ID: <0599464e8b0aad10e8bdd439960c41b5@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -189,7 +189,7 @@ Date: Tue, 21 Sep 2021 10:40:40 +0000
 From: Sundaresan <vignesharavind1993@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Sundaresan <vignesharavind1993@gmail.com>
-Message-ID: <71ab7dad1f35e115a4a45f6133af0789@/smilepointdental>
+Message-ID: <71ab7dad1f35e115a4a45f6133af0789@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -248,7 +248,7 @@ Date: Sun, 6 Feb 2022 03:50:14 +0000
 From: Giridharan Palanisamy <apgiridharan@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Giridharan Palanisamy <apgiridharan@gmail.com>
-Message-ID: <c0193c7f2af0998295d0249eefd9539d@/smilepointdental>
+Message-ID: <c0193c7f2af0998295d0249eefd9539d@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -307,7 +307,7 @@ Date: Wed, 18 May 2022 11:26:03 +0000
 From: Arun Udhayakumar <arunudhay.s@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Arun Udhayakumar <arunudhay.s@gmail.com>
-Message-ID: <050bc98781dc79d3e0147e8c8c21eda7@/smilepointdental>
+Message-ID: <050bc98781dc79d3e0147e8c8c21eda7@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -366,7 +366,7 @@ Date: Wed, 1 Jun 2022 02:27:57 +0000
 From: Nagamaiyan J <nagamaiyan@yahoo.co.in>
 Cc: info@smilepoint.in
 Reply-To: Nagamaiyan J <nagamaiyan@yahoo.co.in>
-Message-ID: <03dcf5c74d84a332dfb985d88e39012a@/smilepointdental>
+Message-ID: <03dcf5c74d84a332dfb985d88e39012a@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -425,7 +425,7 @@ Date: Fri, 29 Jul 2022 09:25:05 +0000
 From: Pooja <rr7815758@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Pooja <rr7815758@gmail.com>
-Message-ID: <98c1a044ed8308398c7c82f0380d8624@/smilepointdental>
+Message-ID: <98c1a044ed8308398c7c82f0380d8624@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -484,7 +484,7 @@ Date: Tue, 11 Oct 2022 18:57:32 +0000
 From: saran <smilepointdentist@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: saran <smilepointdentist@gmail.com>
-Message-ID: <a937f1011e8de90a808061ad793a075f@/smilepointdental>
+Message-ID: <a937f1011e8de90a808061ad793a075f@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -543,7 +543,7 @@ Date: Fri, 23 Dec 2022 04:04:43 +0000
 From: Benoy k s <benoy.ks88@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Benoy k s <benoy.ks88@gmail.com>
-Message-ID: <df7b4fbcf9e52f227b8839a80fe14a4c@/smilepointdental>
+Message-ID: <df7b4fbcf9e52f227b8839a80fe14a4c@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -602,7 +602,7 @@ Date: Thu, 22 Jun 2023 17:00:39 +0000
 From: "Neelagandan.M M" <neelub.opt@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: "Neelagandan.M M" <neelub.opt@gmail.com>
-Message-ID: <061f1b2d5c02159bd6612dd7d04fc3da@/smilepointdental>
+Message-ID: <061f1b2d5c02159bd6612dd7d04fc3da@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -661,7 +661,7 @@ Date: Fri, 7 Jul 2023 11:02:53 +0000
 From: Sakthivel <smilepointdentist@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Sakthivel <smilepointdentist@gmail.com>
-Message-ID: <d7ef2b24e57bec48e2a35b6c9244b8cc@/smilepointdental>
+Message-ID: <d7ef2b24e57bec48e2a35b6c9244b8cc@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -720,7 +720,7 @@ Date: Thu, 13 Jul 2023 12:39:58 +0000
 From: Sangeetha <sang_prasad@yahoo.com>
 Cc: info@smilepoint.in
 Reply-To: Sangeetha <sang_prasad@yahoo.com>
-Message-ID: <f26f7ef13309c125cf85161b5e232117@/smilepointdental>
+Message-ID: <f26f7ef13309c125cf85161b5e232117@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -781,7 +781,7 @@ Date: Sun, 3 Sep 2023 13:07:35 +0000
 From: "A. Swerthika saakshi" <swethikasaakshi2003@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: "A. Swerthika saakshi" <swethikasaakshi2003@gmail.com>
-Message-ID: <7c01bd971d21520cca55b752966adfb6@/smilepointdental>
+Message-ID: <7c01bd971d21520cca55b752966adfb6@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
@@ -840,7 +840,7 @@ Date: Thu, 26 Oct 2023 10:14:52 +0000
 From: Mohanasundar P <vetrivelveravel1997@gmail.com>
 Cc: info@smilepoint.in
 Reply-To: Mohanasundar P <vetrivelveravel1997@gmail.com>
-Message-ID: <e362227df9e7b8845ebb3ff078e0b240@/smilepointdental>
+Message-ID: <e362227df9e7b8845ebb3ff078e0b240@>
 X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
